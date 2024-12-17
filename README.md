@@ -27,8 +27,9 @@ Feel free to submit issues and PRs.
 
 ## To-Do
 
+- [ ] Fix redirect issue
 - [ ] Add support for playlists and albums
 - [ ] Upload pdocasts and videos on Telegram
 
 ## Donation
-Tron (TRC20): `TAB77BR4b6qPTnqoeBJxaXsoidSZN36mEu`
+
