@@ -33,7 +33,9 @@ Currently, this bot supports downloading:
 
 I have this bot in production which you can use it for free [here](https://t.me/rjripbot).
 
-## Upcoming
-- Upload larger media on Telegram
-- Download albums and playlists
+## Tasks
+
+- [ ] Fix the redirect issue for some media
+- [ ] Add support for albums and playlists
+- [ ] Deploy a Telegram bot server in order to upload larger files directly on Telegram
 
