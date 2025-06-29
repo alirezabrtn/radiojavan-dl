@@ -40,3 +40,4 @@ Currently, this bot supports downloading:
 - [ ] Fix channel check issue
 - [ ] Add support for albums and playlists
 - [ ] Deploy a Telegram bot server in order to upload larger files directly on Telegram
+- [ ] Fix run method in Dockerfile
