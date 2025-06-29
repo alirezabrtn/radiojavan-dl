@@ -37,5 +37,6 @@ Currently, this bot supports downloading:
 ## Tasks
 
 - [ ] Fix the redirect issue for some media
+- [ ] Fix channel check issue
 - [ ] Add support for albums and playlists
 - [ ] Deploy a Telegram bot server in order to upload larger files directly on Telegram
